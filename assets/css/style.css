@@ -1,7 +1,19 @@
+
 body {
     background-color: linen;
   }
   
   h1 {
     color: maroon;
-    margin-left: 40px;
+    margin-left: 40px; 
+  }
+
+  h2 {
+      color: navy;
+      margin-left: 40px
+  }
+
+  {
+    box-sizing: border-box;
+  }
+
